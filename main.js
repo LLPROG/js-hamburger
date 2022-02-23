@@ -1,5 +1,5 @@
 
-let hambBtnOpen = document.querySelector('.open');
+let hambBtnOpen = document.querySelector('.header-right>a');
 let hambBtnClose = document.querySelector('.close');
 let hambMenu = document.querySelector('.hamburger-menu');
 
